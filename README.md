@@ -3,7 +3,7 @@
 It requires big dataset which can be downloaded here https://www.dropbox.com/s/xgbb96to10aggrn/dataset.rar?dl=0
 
 
-The main notebook is named as Access_Master_notebook_group10.ipynb
+The main notebook is named as Master_notebook_group10.ipynb
 
 In order the run the master notebook, following auxilliary files are required:
 
